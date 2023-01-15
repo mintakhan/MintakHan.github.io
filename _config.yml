@@ -20,11 +20,16 @@ author: Mintak Han
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  HOME: "home"
+  NEWS: "news"
+  MEMBERS:
+    - Director: "director"
+  RESEARCH:
+    - Project: "project"
+    - Publications: "publications"
+    - Conference: "conference"
+  COURSES: "courses"
+  CONTACT: "contact"
 
 ################
 # --- Logo --- #
