@@ -61,7 +61,7 @@ social-network-links:
 #  linkedin: daattali
 #  telephone: +14159998888
 #  ORCID: your ORCID ID
-  google-scholar: "https://scholar.google.com/citations?user=GIAnBREAAAAJ&hl=ko/feed.xml"
+  google-scholar: "https://scholar.google.com/citations?hl=ko&user=GIAnBREAAAAJ"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
