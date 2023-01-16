@@ -1,5 +1,5 @@
 ---
 layout: page
-title: home
+title: Home
 permalink: page/home
 ---
