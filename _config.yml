@@ -26,7 +26,7 @@ navbar-links:
     - Director: "director"
   RESEARCH:
     - Project: "project"
-    - Publications: "publications"
+    - Publication: "publication"
     - Conference: "conference"
   COURSES: "courses"
   CONTACT: "contact"
