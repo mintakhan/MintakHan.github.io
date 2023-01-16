@@ -1,5 +1,5 @@
 ---
 layout: page
-title: courses
+title: Courses
 permalink: page/courses
 ---
