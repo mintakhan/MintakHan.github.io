@@ -24,6 +24,7 @@ navbar-links:
   NEWS: "/page/news"
   MEMBERS:
     - Director: "/page/director"
+    - Student: "/page/student"
   RESEARCH:
     - Project: "/page/project"
     - Publication: "/page/publication"
