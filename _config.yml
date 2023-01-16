@@ -20,16 +20,16 @@ author: Business Intelligence Lab. <br> Department of Industrial & Management En
 ###############################################
 
 navbar-links:
-  HOME: "home"
-  NEWS: "news"
+  HOME: "/page/home"
+  NEWS: "/page/news"
   MEMBERS:
-    - Director: "director"
+    - Director: "/page/director"
   RESEARCH:
-    - Project: "project"
-    - Publication: "publication"
-    - Conference: "conference"
-  COURSES: "courses"
-  CONTACT: "contact"
+    - Project: "/page/project"
+    - Publication: "/page/publication"
+    - Conference: "/page/conference"
+  COURSES: "/page/courses"
+  CONTACT: "/page/contact"
 
 ################
 # --- Logo --- #
